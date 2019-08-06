@@ -1,7 +1,8 @@
 # vue-zhihu-daily
-demo image
-![image](https://raw.githubusercontent.com/wrzkkk/vue-zhihu-daily/master/src/assets/demo/news-list.png)
-![image](https://raw.githubusercontent.com/wrzkkk/vue-zhihu-daily/master/src/assets/demo/news-detail.png)
+
+## 预览
+```
+![image](https://raw.githubusercontent.com/wrzkkk/vue-zhihu-daily/master/src/assets/demo/demo.png)
 
 ## Project setup
 ```
