@@ -1,7 +1,6 @@
 # vue-zhihu-daily
 
 ## 预览
-```
 ![image](https://raw.githubusercontent.com/wrzkkk/vue-zhihu-daily/master/src/assets/demo/demo.png)
 
 ## Project setup
