@@ -1,0 +1,37 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1564556541950'); /* IE9 */
+  src: url('iconfont.eot?t=1564556541950#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAP4AAsAAAAACKgAAAOqAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDSAqEGINCATYCJAMYCw4ABCAFhG0HWxt7B1GU7kmY7CuMW3giEUJnAxKMUrECpWAoMMf101IhuFQQHM3ZYAGAeHhaY70/MzuoNEjizaInPJHIJIkkrSSIcpLSeWkXipewP669viI7ThUCH7zcTw/ym0uZZXmbnSTUm9wUqlW4ycm1+WxXWrslUXQnseyDfvvWrNjKPjBOh2YlpTUnsIFMRFOj+y6VAqe29v+5n6+rEshrz+aWkfhoZzwaD2hAnb/x4xfLAuI/jN1EeRCnCXSblM1nt7V7GIIVYFIgLpihQHDKoNSUh06hlqws4lmjMz2mrwCe+MPHfyiMYJImAzNPzlt0qP8V4lPebR/kjGIIx7NBW0fGElCIm1LHNb8wscRPt9Pf3x7Qq1NSxrqPLoMuf31qW1IS4Am9MEHS7OsfLxOVVNoLDsRkw68QjJD41SUoUw6KCMGvS4TCr09Kt66pI/Kloo/4BDCWDMmykKXREijJ/p8lNaw62Ju0p9C9GLdG5vjxpLYfwndv9CevvPfvdmFYNdR3F4IboIYCP8RCrxbE2G0fH7nGjUY2NBDlI0sB5G6qL4+QPn8+bamK2y3R9vuNPX7pP5G/bmRkvMbL7td+yPls/sX/8LMkAmmE/R6otoT/xB+L19TO1X4Gxf3usguM+LPL3RwiHMO7/VUHULgoZRQYfOcb/5z3oDTs6iNsNhfKkOda0sBZOzuAEdiFUfg5ElyudDc5ONI59KNafJ55i5jvYb/qmunFaZ57hWkzZ8nTBz/6NuU694b3/ajj2MT6ri8/6rqefoZN4Ab5Le3SSveLByCv+76D/FCWyqRfz6//HcsT7rO5qOp/yQJ+GvvPfW0O7RTw/5RaC3+0sGVDccXAWIuNjgsE6t9+BSR068bv9Qx7GEs11rqU0GkshqTDBGSdprCFuASNHitQddqAbova1vcYIfiJ0oUFRwKEQS8g6fcVskHfsIX4Bxrj/kI1GH7Q7TTiduwxEyy0SaAiUSfqGmEadygyy9CgfBCNJUsRSTFnjqJwWZgU5OZn023ooBhjjrtsFEpJCRXcJq3C2dCyOPEKvoCazPVI6a3My6Nlt5SrcRtC7RCQQkI6QrWGYDScg9L2Umju/gchwxKLQtSgOryjkOBi3RMFcuW3wLYpnFaoa+nvWmYoJElUHkcJnI1oFW3IggmO8JYPW4A0Ui5Pj5hXpTypGW2ryJ1fZT/lDugGrl0jRY4STdToUC7RWQpkOTYX6O/hNgZk+hXE9nLJKNMUeUV1rcyyUAcAAAA=') format('woff2'),
+  url('iconfont.woff?t=1564556541950') format('woff'),
+  url('iconfont.ttf?t=1564556541950') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1564556541950#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-menu:before {
+  content: "\e652";
+}
+
+.icon-i-more:before {
+  content: "\e609";
+}
+
+.icon-home:before {
+  content: "\e6b9";
+}
+
+.icon-menu1:before {
+  content: "\e693";
+}
+
+.icon-NotificationFilled:before {
+  content: "\e64b";
+}
+
